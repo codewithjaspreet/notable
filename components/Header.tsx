@@ -10,7 +10,7 @@ function Header(){
               margin: '0 10px',
             }} />
             <div className="hidden md:inline-flex space-x-5 items-center">
-              <h3 className="text-blue-900 underline">Personal</h3>
+              <h3 className="text-blue-700 underline font-bold">Personal</h3>
               <h3 className="text-black-100 font-bold">Business</h3>
             </div>
         </div>

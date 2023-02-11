@@ -2,6 +2,8 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Header from '../components/Header'
 import { Hero } from '../components/Hero'
+import {Middle} from '../components/Middle'
+import { NonKyc } from '../components/NonKyc'
 
 const Home: NextPage = () => {
   return (
@@ -13,6 +15,8 @@ const Home: NextPage = () => {
 
       <Header/>
       <Hero/>
+      <Middle/>
+      <NonKyc/>
 
 
       
