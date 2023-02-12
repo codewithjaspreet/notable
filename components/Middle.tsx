@@ -10,7 +10,7 @@ export const Middle = () => {
         <span className="text-blue-600 text-4xl font-bold">KYC</span> account
         card
       </h3>
-      <p>
+      <p className="">
         Cupcake ipsum dolor sit amet lollipop. Icing icing carrot cake candy
         jelly-o soufflé muffin macaroon. Marzipan lollipop bear claw chupa chups
         cake toffee. Brownie jelly-o cupcake icing pastry apple pie carrot cake

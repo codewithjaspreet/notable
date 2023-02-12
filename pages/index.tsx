@@ -1,5 +1,6 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
+import { Brand } from '../components/brand'
 import Header from '../components/Header'
 import { Hero } from '../components/Hero'
 import {Middle} from '../components/Middle'
@@ -17,6 +18,7 @@ const Home: NextPage = () => {
       <Hero/>
       <Middle/>
       <NonKyc/>
+      <Brand/>
 
 
       
